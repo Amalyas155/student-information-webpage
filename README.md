@@ -109,6 +109,6 @@ This project demonstrates how to:
 
 ## 👩‍💻 Developed By
 
-**Amal Althubaiti**  
+**Amal Yasser**  
 Computer and Network Engineering Student  
 University of Jeddah
